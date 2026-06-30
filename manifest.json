@@ -1,1 +1,9 @@
-{"name":"Даваа Таавар","short_name":"Таавар","start_url":"./index.html","display":"standalone","background_color":"#10131a","theme_color":"#d8a84f","icons":[]}
+{
+  "name": "Бөх Таавар Pro",
+  "short_name": "БөхТаавар",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#c7952f",
+  "icons": []
+}
