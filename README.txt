@@ -11,3 +11,8 @@
 - Энэ нь бодит мөнгөний бооцоот систем биш. Оноотой тааврын prototype.
 - Өгөгдөл browser-ийн localStorage дээр хадгалагдана.
 - Дараагийн шатанд Firebase Auth, Firestore, Admin Role, realtime leaderboard холбоно.
+
+
+V3 START
+- APP_VERSION added
+- Ready for module split.

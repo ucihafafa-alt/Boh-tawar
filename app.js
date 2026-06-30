@@ -1,3 +1,4 @@
+const APP_VERSION='3.0-dev';
 
 const DB='bukhTaavarProV2';
 const defaultState={currentUser:null,users:[],closed:false,results:null,events:[{id:'naadam2026',name:'Улсын баяр наадам 2026',status:'Таавар авч байна'}],wrestlers:['О.Хангай','Б.Орхонбаяр','П.Бүрэнтөгс','Н.Батсуурь','Ц.Содномдорж','Р.Пүрэвдагва','М.Бадарч','Б.Гончигдамба','Э.Оюунболд','Д.Анар','Аймгийн арслан түрүүлэхгүй'],predictions:[],settings:{points:{champion:100,runner:70,semi:40,quarter:20,province:30,title:30,combo:120}},adminPin:'1234'};
