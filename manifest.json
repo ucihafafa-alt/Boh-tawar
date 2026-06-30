@@ -1,9 +1,12 @@
 {
   "name": "Бөх Таавар Pro",
   "short_name": "БөхТаавар",
+  "description": "Монгол бөхийн оноотой тааврын PWA платформ",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#0b1220",
+  "orientation": "portrait",
+  "background_color": "#09111f",
   "theme_color": "#c7952f",
   "icons": []
 }
